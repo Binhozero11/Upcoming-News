@@ -8,8 +8,4 @@ function Home() {
   );
 }
 
-function nd() {
-  console.log("testando");
-}
-
 export default Home;
